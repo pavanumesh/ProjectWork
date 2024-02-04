@@ -1,4 +1,4 @@
-# ProjectWork
+# Rechargable Battery using scrap metal
 The battery can play an important role in achieving the target of universal access to clean, reliable, and affordable electricity services, Batteries provide energy for powering devices without wires or cables. The use of a battery has changed human life in terms of carrying electricity around and storing it in a small size box, this is still a very under-explored part of the industry as there is a lot of room for research and development. The thought was to find an alternative for Li-ion battery and lead acid battery that is equally efficient but made of cheaper metals that are found in the scrap metal and are about to be recycled
 
 By depositing an oxide layer of thickness in the nanoscale to protect the alloy from degrading in the electrolyte, and studying its characteristics and composition before and after the Formation of the oxide layer on the alloy. With the help of this, hoping to bring up a new set of directions in recycling or productively reusing the metals instead of throwing them out. The process that is included is to create an oxide layer on the top of the electrode to prevent decay
